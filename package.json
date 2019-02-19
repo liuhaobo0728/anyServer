@@ -1,0 +1,31 @@
+{
+  "name": "anyServer",
+  "version": "1.0.0",
+  "description": "node静态资源服务器",
+  "main": "src/app.js",
+  "bin" : {
+    "anyServer": "bin/anyServer"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhaobo0728/anyServer.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuhaobo0728/anyServer/issues"
+  },
+  "homepage": "https://github.com/liuhaobo0728/anyServer#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "handlebars": "^4.1.0",
+    "supervisor": "^0.12.0",
+    "yargs": "^13.2.1"
+  }
+}
