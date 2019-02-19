@@ -1,17 +1,17 @@
 {
-  "name": "anyStaServer",
-  "version": "1.0.0",
+  "name": "anystaserver",
+  "version": "1.0.1",
   "description": "node静态资源服务器",
   "main": "src/app.js",
   "bin" : {
-    "anyStaServer": "bin/anyStaServer"
+    "anystaserver": "bin/anystaserver"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liuhaobo0728/anyStaServer.git"
+    "url": "git+https://github.com/liuhaobo0728/anystaserver.git"
   },
   "keywords": [
     ""
@@ -19,9 +19,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/liuhaobo0728/anyStaServer/issues"
+    "url": "https://github.com/liuhaobo0728/anystaserver/issues"
   },
-  "homepage": "https://github.com/liuhaobo0728/anyStaServer#readme",
+  "homepage": "https://github.com/liuhaobo0728/anystaserver#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "handlebars": "^4.1.0",
